@@ -1,1 +1,1 @@
-# json-server-todos
+# Todo Application with Redux
